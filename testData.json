@@ -1,0 +1,2450 @@
+[
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Inspirational", "Advice", "Humor"],
+    "quote": "Be yourself; everyone else is already taken.",
+    "id": 0,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Inspirational", "Advice", "Philosophy"],
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "id": 1,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Advice", "Philosophy"],
+    "quote": "Always forgive your enemies; nothing annoys them so much.",
+    "id": 2,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Humor"],
+    "quote": "“I am so clever that sometimes I don't understand a single word of what I am saying.",
+    "id": 3,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Advice"],
+    "quote": "If one cannot enjoy reading a book over and over again, there is no use in reading it at all.",
+    "id": 4,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Inspirational", "Philosophy"],
+    "quote": "We are all in the gutter, but some of us are looking at the stars.",
+    "id": 5,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Reading", "Philosophy", "Advice"],
+    "quote": "It is what you read when you don't have to that determines what you will be when you can't help it.",
+    "id": 6,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Reading", "Philosophy", "Morality"],
+    "quote": "The books that the world calls immoral are books that show the world its own shame.",
+    "id": 7,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Advice", "Truth"],
+    "quote": "The truth is rarely pure and never simple.",
+    "id": 8,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Imagination", "Inspirational"],
+    "quote": "Yes: I am a dreamer. For a dreamer is one who can only find his way by moonlight, and his punishment is that he sees the dawn before the rest of the world",
+    "id": 9,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Advice", "Humor"],
+    "quote": "You can never be overdressed or overeducated.",
+    "id": 10,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Advice", "Truth"],
+    "quote": "Never love anyone who treats you like you're ordinary.",
+    "id": 11,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Philosophy"],
+    "quote": "Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.",
+    "id": 12,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Humor"],
+    "quote": "A good friend will always stab you in the front.",
+    "id": 13,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Humor", "Advice", "Love"],
+    "quote": "Women are meant to be loved, not to be understood.",
+    "id": 14,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Humor"],
+    "quote": "I don't want to go to heaven. None of my friends are there",
+    "id": 15,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Imagination"],
+    "quote": "Anyone who lives within their means suffers from a lack of imagination.",
+    "id": 16,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Philosophy", "Inspirational"],
+    "quote": "Every saint has a past, and every sinner has a future.",
+    "id": 17,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Humor"],
+    "quote": "I am not young enough to know everything.",
+    "id": 18,
+    "liked": false
+  },
+  {
+    "author": "Oscar Wilde",
+    "topics": ["Inspirational", "Advice"],
+    "quote": "Experience is merely the name men gave to their mistakes.",
+    "id": 19,
+    "liked": false
+  },
+  {
+    "author": "Socrates",
+    "topics": ["Philosophy", "Advice", "Truth", "Wisdom"],
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "id": 20,
+    "liked": false
+  },
+  {
+    "author": "Socrates",
+    "topics": ["Philosophy", "Advice", "Wisdom"],
+    "quote": "The unexamined life is not worth living.",
+    "id": 21,
+    "liked": false
+  },
+  {
+    "author": "Socrates",
+    "topics": ["Philosophy", "Advice", "Wisdom"],
+    "quote": "I cannot teach anybody anything. I can only make them think",
+    "id": 22,
+    "liked": false
+  },
+  {
+    "author": "Socrates",
+    "topics": ["Philosophy", "Truth", "Morality"],
+    "quote": "There is only one good, knowledge, and one evil, ignorance.",
+    "id": 23,
+    "liked": false
+  },
+  {
+    "author": "Socrates",
+    "topics": ["Philosophy", "Morality"],
+    "quote": "Be kind, for everyone you meet is fighting a hard battle..",
+    "id": 24,
+    "liked": false
+  },
+  {
+    "author": "Socrates",
+    "topics": ["Philosophy", "Wisdom"],
+    "quote": "Wonder is the beginning of wisdom.",
+    "id": 25,
+    "liked": false
+  },
+  {
+    "author": "Socrates",
+    "topics": ["Philosophy", "Advice", "Inspirational", "Imagination"],
+    "quote": "To find yourself, think for yourself.",
+    "id": 26,
+    "liked": false
+  },
+  {
+    "author": "Socrates",
+    "topics": ["Philosophy", "Wisdom"],
+    "quote": "Strong minds discuss ideas, average minds discuss events, weak minds discuss people.",
+    "id": 27,
+    "liked": false
+  },
+  {
+    "author": "Socrates",
+    "topics": ["Inspirational", "Reading", "Imagination"],
+    "quote": "Education is the kindling of a flame, not the filling of a vessel.",
+    "id": 28,
+    "liked": false
+  },
+  {
+    "author": "Plato",
+    "topics": ["Inspirational", "Reading", "Imagination", "Love"],
+    "quote": "Every heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet.",
+    "id": 29,
+    "liked": false
+  },
+  {
+    "author": "Plato",
+    "topics": ["Inspirational", "Wisdom", "Fear"],
+    "quote": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "id": 30,
+    "liked": false
+  },
+  {
+    "author": "Plato",
+    "topics": ["Wisdom", "War"],
+    "quote": "Only the dead have seen the end of war.",
+    "id": 31,
+    "liked": false
+  },
+  {
+    "author": "Plato",
+    "topics": ["Philosophy"],
+    "quote": "The price good men pay for indifference to public affairs is to be ruled by evil men.",
+    "id": 32,
+    "liked": false
+  },
+  {
+    "author": "Plato",
+    "topics": ["Advice", "Mentoring"],
+    "quote": "Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each.",
+    "id": 33,
+    "liked": false
+  },
+  {
+    "author": "Plato",
+    "topics": ["Philosophy"],
+    "quote": "The heaviest penalty for declining to rule is to be ruled by someone inferior to yourself.",
+    "id": 34,
+    "liked": false
+  },
+  {
+    "author": "Plato",
+    "topics": ["Philosophy", "Wisdom"],
+    "quote": "I am the wisest man alive, for I know one thing, and that is that I know nothing.",
+    "id": 35,
+    "liked": false
+  },
+  {
+    "author": "Plato",
+    "topics": ["Philosophy", "Morality", "Inspirational"],
+    "quote": "Never discourage anyone...who continually makes progress, no matter how slow.",
+    "id": 36,
+    "liked": false
+  },
+  {
+    "author": "Plato",
+    "topics": ["Humor", "Love"],
+    "quote": "Love is a serious mental disease.",
+    "id": 37,
+    "liked": false
+  },
+  {
+    "author": "Aristotle",
+    "topics": ["Wisdom"],
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "id": 38,
+    "liked": false
+  },
+  {
+    "author": "Aristotle",
+    "topics": ["Wisdom"],
+    "quote": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+    "id": 39,
+    "liked": false
+  },
+  {
+    "author": "Aristotle",
+    "topics": ["Love", "Philosophy"],
+    "quote": "What is a friend? A single soul dwelling in two bodies.",
+    "id": 40,
+    "liked": false
+  },
+  {
+    "author": "Aristotle",
+    "topics": ["Love", "Morality"],
+    "quote": "Educating the mind without educating the heart is no education at all",
+    "id": 41,
+    "liked": false
+  },
+  {
+    "author": "Aristotle",
+    "topics": ["Imagination", "Inspirational"],
+    "quote": "Hope is a waking dream.",
+    "id": 42,
+    "liked": false
+  },
+  {
+    "author": "Aristotle",
+    "topics": ["Humor", "Wisdom"],
+    "quote": "No great mind has ever existed without a touch of madness.",
+    "id": 43,
+    "liked": false
+  },
+  {
+    "author": "Aristotle",
+    "topics": ["Philosophy", "Advice", "Happiness"],
+    "quote": "Happiness depends upon ourselves.",
+    "id": 44,
+    "liked": false
+  },
+  {
+    "author": "Aristotle",
+    "topics": ["Advice", "Inspirational", "Mentoring", "Philosophy"],
+    "quote": "Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution; it represents the wise choice of many alternatives - choice, not chance, determines your destiny.",
+    "id": 45,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Inspirational", "Philosophy"],
+    "quote": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+    "id": 46,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Imagination", "Love"],
+    "quote": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+    "id": 47,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Advice", "Philosophy", "Happiness"],
+    "quote": "The happiness of your life depends upon the quality of your thoughts",
+    "id": 48,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Advice", "Truth"],
+    "quote": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+    "id": 49,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Morality", "Advice"],
+    "quote": "Waste no more time arguing about what a good man should be. Be one.",
+    "id": 50,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Philosophy"],
+    "quote": "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.",
+    "id": 51,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Philosophy", "Love", "Inspirational"],
+    "quote": "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love",
+    "id": 52,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Advice", "Morality"],
+    "quote": "The best revenge is to be unlike him who performed the injury",
+    "id": 53,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Wisdom", "Morality"],
+    "quote": "The soul becomes dyed with the colour of its thoughts.",
+    "id": 54,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Advice", "Love"],
+    "quote": "Accept the things to which fate binds you, and love the people with whom fate brings you together,but do so with all your heart.",
+    "id": 55,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Fear", "Inspirational", "Philosophy"],
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live.",
+    "id": 56,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Fear", "Advice"],
+    "quote": "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.",
+    "id": 57,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Inspirational", "Advice", "Philosophy"],
+    "quote": "Our life is what our thoughts make it.",
+    "id": 58,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Truth", "Advice", "Wisdom", "Morality"],
+    "quote": "If someone is able to show me that what I think or do is not right, I will happily change, for I seek the truth, by which no one was ever truly harmed. It is the person who continues in his self-deception and ignorance who is harmed.",
+    "id": 59,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Advice", "Morality"],
+    "quote": "Whenever you are about to find fault with someone, ask yourself the following question: What fault of mine most nearly resembles the one I am about to criticize?",
+    "id": 60,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Philosophy", "Love"],
+    "quote": "I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.",
+    "id": 61,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Advice", "Morality", "Truth"],
+    "quote": "If it is not right do not do it; if it is not true do not say it.",
+    "id": 62,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Imagination", "Philosophy"],
+    "quote": "The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane",
+    "id": 63,
+    "liked": false
+  },
+  {
+    "author": "Marcus Aurelius",
+    "topics": ["Inspirational", "Advice", "Happiness"],
+    "quote": "Very little is needed to make a happy life; it is all within yourself in your way of thinking.",
+    "id": 64,
+    "liked": false
+  },
+  {
+    "author": "Sun Tzu",
+    "topics": ["War", "Advice", "Fear"],
+    "quote": "Appear weak when you are strong, and strong when you are weak.",
+    "id": 65,
+    "liked": false
+  },
+  {
+    "author": "Sun Tzu",
+    "topics": ["War", "Wisdom"],
+    "quote": "The supreme art of war is to subdue the enemy without fighting",
+    "id": 66,
+    "liked": false
+  },
+  {
+    "author": "Sun Tzu",
+    "topics": ["War", "Fear", "Wisdom"],
+    "quote": "If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.",
+    "id": 67,
+    "liked": false
+  },
+  {
+    "author": "Sun Tzu",
+    "topics": ["War", "Wisdom"],
+    "quote": "Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.",
+    "id": 68,
+    "liked": false
+  },
+  {
+    "author": "Sun Tzu",
+    "topics": ["War", "Business"],
+    "quote": "In the midst of chaos, there is also opportunity",
+    "id": 69,
+    "liked": false
+  },
+  {
+    "author": "Sun Tzu",
+    "topics": ["War"],
+    "quote": "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win",
+    "id": 70,
+    "liked": false
+  },
+  {
+    "author": "Sun Tzu",
+    "topics": ["War", "Wisdom"],
+    "quote": "To know your Enemy, you must become your Enemy.",
+    "id": 71,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Love", "Fear"],
+    "quote": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+    "id": 72,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Inspirational", "Imagination", "Advice"],
+    "quote": "The journey of a thousand miles begins with a single step.",
+    "id": 73,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Imagination"],
+    "quote": "A good traveler has no fixed plans and is not intent on arriving.",
+    "id": 74,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Philosophy", "Wisdom"],
+    "quote": "Those who know do not speak. Those who speak do not know..",
+    "id": 75,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Advice"],
+    "quote": "When you are content to be simply yourself and don't compare or compete, everyone will respect you.",
+    "id": 76,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Truth"],
+    "quote": "The truth is not always beautiful, nor beautiful words the truth",
+    "id": 77,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Philosophy"],
+    "quote": "Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to.",
+    "id": 78,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Philosophy"],
+    "quote": "The best fighter is never angry",
+    "id": 79,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Philosophy", "Inspirational"],
+    "quote": "Because one believes in oneself, one doesn't try to convince others. Because one is content with oneself, one doesn't need others' approval. Because one accepts oneself, the whole world accepts him or her",
+    "id": 80,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Inspirational", "Fear"],
+    "quote": "A man with outward courage dares to die; a man with inner courage dares to live.",
+    "id": 81,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Philosophy", "Advice"],
+    "quote": "Care about what other people think and you will always be their prisoner.",
+    "id": 82,
+    "liked": false
+  },
+  {
+    "author": "Lao Tzu",
+    "topics": ["Philosophy"],
+    "quote": "Nature does not hurry, yet everything is accomplished.",
+    "id": 83,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Wisdom"],
+    "quote": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.",
+    "id": 84,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Inspirational", "Advice"],
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "id": 85,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Imagination", "Wisdom"],
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "id": 86,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Advice", "Imagination", "Love"],
+    "quote": "Wheresoever you go, go with all your heart.”",
+    "id": 87,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Wisdom"],
+    "quote": "He who knows all the answers has not been asked all the questions..",
+    "id": 88,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Inspirational", "Advice"],
+    "quote": "The man who moves a mountain begins by carrying away small stones.",
+    "id": 89,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Philosophy"],
+    "quote": "Life is really simple, but we insist on making it complicated.",
+    "id": 90,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Inspirational", "Advice"],
+    "quote": "If you make a mistake and do not correct it, this is called a mistake.",
+    "id": 91,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Inspirational", "Advice"],
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "id": 92,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Advice"],
+    "quote": "Study the past if you would define the future.",
+    "id": 93,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Morality"],
+    "quote": "The funniest people are the saddest ones",
+    "id": 94,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Advice", "Philosophy"],
+    "quote": "Before you embark on a journey of revenge, dig two graves",
+    "id": 95,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Advice", "Philosophy"],
+    "quote": "To be wronged is nothing, unless you continue to remember it.",
+    "id": 96,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Advice", "Inspirational"],
+    "quote": "Respect yourself and others will respect you.",
+    "id": 97,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Wisdom", "Philosophy"],
+    "quote": "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.",
+    "id": 98,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Advice", "Philosophy", "Inspirational"],
+    "quote": "When you see a good person, think of becoming like her/him. When you see someone not so good, reflect on your own weak points.",
+    "id": 99,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Philosophy"],
+    "quote": "Silence is a true friend who never betrays.",
+    "id": 100,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Philosophy", "Advice", "Morality"],
+    "quote": "Attack the evil that is within yourself, rather than attacking the evil that is in others.",
+    "id": 101,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Wisdom", "Reading"],
+    "quote": "You cannot open a book without learning something.",
+    "id": 102,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Wisdom", "Philosophy"],
+    "quote": "What the superior man seeks is in himself; what the small man seeks is in others",
+    "id": 103,
+    "liked": false
+  },
+  {
+    "author": "Confucius",
+    "topics": ["Wisdom", "Philosophy"],
+    "quote": "I hear and I forget. I see and I remember. I do and I understand.",
+    "id": 104,
+    "liked": false
+  },
+  {
+    "checkHere": "This is where you left off",
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "profession": "Indian leader",
+    "topics": ["Inspirational", "Philosophy", "Advice"],
+    "id": 105,
+    "liked": false
+  },
+  {
+    "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "author": "Mahatma Gandhi",
+    "profession": "Indian leader",
+    "topics": ["Inspirational", "Life", "Advice"],
+    "id": 106,
+    "liked": false
+  },
+  {
+    "quote": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "profession": "Former First Lady of the United States",
+    "topics": ["Wisdom"],
+    "id": 107,
+    "liked": false
+  },
+  {
+    "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+    "author": "Eleanor Roosevelt",
+    "profession": "Former First Lady of the United States",
+    "topics": ["Wisdom", "People"],
+    "id": 108,
+    "liked": false
+  },
+  {
+    "quote": "Do what you feel in your heart to be right - for you'll be criticized anyway.",
+    "author": "Eleanor Roosevelt",
+    "profession": "Former First Lady of the United States",
+    "topics": ["Wisdom", "Advice"],
+    "id": 109,
+    "liked": false
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "profession": "Former First Lady of the United States",
+    "topics": ["Wisdom", "Life"],
+    "id": 110,
+    "liked": false
+  },
+  {
+    "quote": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate; only love can do that.",
+    "author": "Martin Luther King",
+    "profession": "American minister",
+    "topics": ["Inspirational", "Wisdom", "Love"],
+    "id": 111,
+    "liked": false
+  },
+  {
+    "quote": "Our lives begin to end the day we become silent about things that matter.",
+    "author": "Martin Luther King",
+    "profession": "American minister",
+    "topics": ["Inspirational", "Life"],
+    "id": 112,
+    "liked": false
+  },
+  {
+    "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+    "author": "Martin Luther King",
+    "profession": "American minister",
+    "topics": ["People", "Life"],
+    "id": 113,
+    "liked": false
+  },
+  {
+    "quote": "Injustice anywhere is a threat to justice everywhere.",
+    "author": "Martin Luther King",
+    "profession": "American minister",
+    "topics": ["Wisdom"],
+    "id": 114,
+    "liked": false
+  },
+  {
+    "quote": "The time is always right to do what is right.",
+    "author": "Martin Luther King",
+    "profession": "American minister",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 115,
+    "liked": false
+  },
+  {
+    "quote": "Life's most persistent and urgent question is, 'What are you doing for others?",
+    "author": "Martin Luther King",
+    "profession": "American minister",
+    "topics": ["Inspirational", "Life", "People"],
+    "id": 116,
+    "liked": false
+  },
+  {
+    "quote": "Weak people revenge. Strong people forgive. Intelligent People Ignore.",
+    "author": "Albert Einstein",
+    "profession": "Theoretical physicist",
+    "topics": ["Inspirational", "Life"],
+    "id": 117,
+    "liked": false
+  },
+  {
+    "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas A. Edison",
+    "profession": "American inventor",
+    "topics": ["Inspirational"],
+    "id": 118,
+    "liked": false
+  },
+  {
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Thomas A. Edison",
+    "profession": "American inventor",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 119,
+    "liked": false
+  },
+  {
+    "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    "author": "Thomas A. Edison",
+    "profession": "American inventor",
+    "topics": ["Inspirational", "Advice"],
+    "id": 120,
+    "liked": false
+  },
+  {
+    "quote": "If we did all the things we are capable of, we would literally astound ourselves.",
+    "author": "Thomas A. Edison",
+    "profession": "American inventor",
+    "topics": ["Inspirational"],
+    "id": 121,
+    "liked": false
+  },
+  {
+    "quote": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+    "author": "Albert Einstein",
+    "profession": "Theoretical physicist",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 122,
+    "liked": false
+  },
+  {
+    "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+    "author": "George Bernard Shaw",
+    "profession": "Irish playwright",
+    "topics": ["Inspirational", "Life", "Advice"],
+    "id": 123,
+    "liked": false
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "profession": "Former British Prime Minister",
+    "topics": ["Inspirational", "Life", "Advice"],
+    "id": 124,
+    "liked": false
+  },
+  {
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "profession": "Former British Prime Minister",
+    "topics": ["Inspirational", "Advice"],
+    "id": 125,
+    "liked": false
+  },
+  {
+    "quote": "We make a living by what we get, but we make a life by what we give.",
+    "author": "Winston Churchill",
+    "profession": "Former British Prime Minister",
+    "topics": ["People", "Life"],
+    "id": 126,
+    "liked": false
+  },
+  {
+    "quote": "Peace begins with a smile.",
+    "author": "Mother Teresa",
+    "profession": "Roman Catholic Saint",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 127,
+    "liked": false
+  },
+  {
+    "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+    "author": "Mother Teresa",
+    "profession": "Roman Catholic Saint",
+    "topics": ["Inspirational", "Love", "Advice"],
+    "id": 128,
+    "liked": false
+  },
+  {
+    "quote": "If you can't feed a hundred people, then feed just one.",
+    "author": "Mother Teresa",
+    "profession": "Roman Catholic Saint",
+    "topics": ["Inspirational", "Advice", "People"],
+    "id": 129,
+    "liked": false
+  },
+  {
+    "quote": "Kind words can be short and easy to speak, but their echoes are truly endless.",
+    "author": "Mother Teresa",
+    "profession": "Roman Catholic Saint",
+    "topics": ["Inspirational", "People"],
+    "id": 130,
+    "liked": false
+  },
+  {
+    "quote": "Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?",
+    "author": "L.M. Montgomery",
+    "profession": "Canadian author",
+    "topics": ["Inspirational"],
+    "id": 131,
+    "liked": false
+  },
+  {
+    "quote": "Tomorrow is always fresh, with no mistakes in it.",
+    "author": "L.M. Montgomery",
+    "profession": "Canadian author",
+    "topics": ["Inspirational"],
+    "id": 132,
+    "liked": false
+  },
+  {
+    "quote": "We should regret our mistakes and learn from them, but never carry them forward into the future with us.",
+    "author": "L.M. Montgomery",
+    "profession": "Canadian author",
+    "topics": ["Inspirational", "Advice", "Life"],
+    "id": 133,
+    "liked": false
+  },
+  {
+    "quote": "It's so easy to be wicked without knowing it, isn't it?",
+    "author": "L.M. Montgomery",
+    "profession": "Canadian author",
+    "topics": ["Inspirational", "Philosophy", "Life"],
+    "id": 134,
+    "liked": false
+  },
+  {
+    "quote": "All the darkness in the world cannot extinguish the light of a single candle.",
+    "author": "Francis of Assisi",
+    "profession": "Italian Catholic Saint",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 135,
+    "liked": false
+  },
+  {
+    "quote": "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.",
+    "author": "Francis of Assisi",
+    "profession": "Italian Catholic Saint",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 136,
+    "liked": false
+  },
+  {
+    "quote": "Preach the Gospel at all times and when necessary use words.",
+    "author": "Francis of Assisi",
+    "profession": "Italian Catholic Saint",
+    "topics": ["Religion", "Wisdom"],
+    "id": 137,
+    "liked": false
+  },
+  {
+    "quote": "A single sunbeam is enough to drive away many shadows.",
+    "author": "Francis of Assisi",
+    "profession": "Italian Catholic Saint",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 138,
+    "liked": false
+  },
+  {
+    "quote": "You never fail until you stop trying.",
+    "author": "Albert Einstein",
+    "profession": "Theoretical physicist",
+    "topics": ["Inspirational", "Advice"],
+    "id": 139,
+    "liked": false
+  },
+  {
+    "quote": "You see things; you say, 'Why?' But I dream things that never were; and I say 'Why not?",
+    "author": "George Bernard Shaw",
+    "profession": "Irish playwright",
+    "topics": ["Inspirational"],
+    "id": 140,
+    "liked": false
+  },
+  {
+    "quote": "We don't stop playing because we grow old; we grow old because we stop playing.",
+    "author": "George Bernard Shaw",
+    "profession": "Irish playwright",
+    "topics": ["Inspirational"],
+    "id": 141,
+    "liked": false
+  },
+  {
+    "quote": "Progress is impossible without change, and those who cannot change their minds cannot change anything.",
+    "author": "George Bernard Shaw",
+    "profession": "Irish playwright",
+    "topics": ["Inspirational"],
+    "id": 142,
+    "liked": false
+  },
+  {
+    "quote": "A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.",
+    "author": "George Bernard Shaw",
+    "profession": "Irish playwright",
+    "topics": ["Inspirational"],
+    "id": 143,
+    "liked": false
+  },
+  {
+    "quote": "Kindness is a language which the deaf can hear and the blind can see.",
+    "author": "Mark Twain",
+    "profession": "American writer",
+    "topics": ["Inspirational"],
+    "id": 144,
+    "liked": false
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "profession": "American writer",
+    "topics": ["Inspirational", "Advice"],
+    "id": 145,
+    "liked": false
+  },
+  {
+    "quote": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+    "author": "Mark Twain",
+    "profession": "American writer",
+    "topics": ["Inspirational", "Advice"],
+    "id": 146,
+    "liked": false
+  },
+  {
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "author": "Mark Twain",
+    "profession": "American writer",
+    "topics": ["Inspirational", "Life"],
+    "id": 147,
+    "liked": false
+  },
+  {
+    "quote": "Truth is stranger than fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't.",
+    "author": "Mark Twain",
+    "profession": "American writer",
+    "topics": ["Inspirational", "Life"],
+    "id": 148,
+    "liked": false
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "profession": "American writer",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 149,
+    "liked": false
+  },
+  {
+    "quote": "I have never met a man so ignorant that I couldn't learn something from him",
+    "author": "Galileo Galilei",
+    "profession": "Italian Polymath",
+    "topics": ["Inspirational"],
+    "id": 150,
+    "liked": false
+  },
+  {
+    "quote": "Earth provides enough to satisfy every man's needs, but not every man's greed.",
+    "author": "Mahatma Gandhi",
+    "profession": "Indian leader",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 151,
+    "liked": false
+  },
+  {
+    "quote": "Where there is love there is life.",
+    "author": "Mahatma Gandhi",
+    "profession": "Indian leader",
+    "topics": ["Life", "Love"],
+    "id": 152,
+    "liked": false
+  },
+  {
+    "quote": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "author": "Mahatma Gandhi",
+    "profession": "Indian leader",
+    "topics": ["Inspirational", "Wisdom", "Philosophy"],
+    "id": 153,
+    "liked": false
+  },
+  {
+    "quote": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "author": "Mahatma Gandhi",
+    "profession": "Indian leader",
+    "topics": ["Inspirational", "Wisdom", "Philosophy"],
+    "id": 154,
+    "liked": false
+  },
+  {
+    "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi",
+    "profession": "Indian leader",
+    "topics": ["Inspirational", "Wisdom", "Philosophy"],
+    "id": 155,
+    "liked": false
+  },
+  {
+    "quote": "You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.",
+    "author": "Mahatma Gandhi",
+    "profession": "Indian leader",
+    "topics": ["Inspirational", "Wisdom", "Philosophy"],
+    "id": 156,
+    "liked": false
+  },
+  {
+    "quote": "In a gentle way, you can shake the world.",
+    "author": "Mahatma Gandhi",
+    "profession": "Indian leader",
+    "topics": ["Inspirational", "Wisdom", "Philosophy"],
+    "id": 157,
+    "liked": false
+  },
+  {
+    "quote": "He that can have patience can have what he will.",
+    "author": "Benjamin Franklin",
+    "profession": "Founding Father of the United States",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 158,
+    "liked": false
+  },
+  {
+    "quote": "Either write something worth reading or do something worth writing.",
+    "author": "Benjamin Franklin",
+    "profession": "Founding Father of the United States",
+    "topics": ["Inspirational", "Advice"],
+    "id": 159,
+    "liked": false
+  },
+  {
+    "quote": "Tell me and I forget, teach me and I may remember, involve me and I learn.",
+    "author": "Benjamin Franklin",
+    "profession": "Founding Father of the United States",
+    "topics": ["Inspirational", "Wisdom", "Philosophy"],
+    "id": 160,
+    "liked": false
+  },
+  {
+    "quote": "Never ruin an apology with an excuse.",
+    "author": "Benjamin Franklin",
+    "profession": "Founding Father of the United States",
+    "topics": ["Life", "Advice"],
+    "id": 161,
+    "liked": false
+  },
+  {
+    "quote": "Early to bed and early to rise makes a man healthy, wealthy and wise.",
+    "author": "Benjamin Franklin",
+    "profession": "Founding Father of the United States",
+    "topics": ["Life", "Advice"],
+    "id": 162,
+    "liked": false
+  },
+  {
+    "quote": "By failing to prepare, you are preparing to fail.",
+    "author": "Benjamin Franklin",
+    "profession": "Founding Father of the United States",
+    "topics": ["Inspirational", "Advice"],
+    "id": 163,
+    "liked": false
+  },
+  {
+    "quote": "Those who look for the bad in people will surely find it.",
+    "author": "Abraham Lincoln",
+    "profession": "16th U.S. President",
+    "topics": ["Inspirational", "People"],
+    "id": 164,
+    "liked": false
+  },
+  {
+    "quote": "People don't realize how a man's whole life can be changed by one book.",
+    "author": "Malcolm X",
+    "profession": "American minister",
+    "topics": ["Inspirational", "Life"],
+    "id": 165,
+    "liked": false
+  },
+  {
+    "quote": "If you have no critics you'll likely have no success.",
+    "author": "Malcolm X",
+    "profession": "American minister",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 166,
+    "liked": false
+  },
+  {
+    "quote": "I'm for truth, no matter who tells it. I'm for justice, no matter who it's for or against.",
+    "author": "Malcolm X",
+    "profession": "American minister",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 167,
+    "liked": false
+  },
+  {
+    "quote": "It is not a lack of Love, but a lack of People that makes unhappy marriages.",
+    "author": "Friedrich Nietzsche",
+    "profession": "German philosopher",
+    "topics": ["Love", "Marriage"],
+    "id": 168,
+    "liked": false
+  },
+  {
+    "quote": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche",
+    "profession": "German philosopher",
+    "topics": ["Life", "Inspirational"],
+    "id": 169,
+    "liked": false
+  },
+  {
+    "quote": "That which does not kill us makes us stronger",
+    "author": "Friedrich Nietzsche",
+    "profession": "German philosopher",
+    "topics": ["Inspirational", "Philosophy"],
+    "id": 170,
+    "liked": false
+  },
+  {
+    "quote": "To live is to suffer, to survive is to find some meaning in the suffering.",
+    "author": "Friedrich Nietzsche",
+    "profession": "German philosopher",
+    "topics": ["Life", "Philosophy", "Inspirational"],
+    "id": 171,
+    "liked": false
+  },
+  {
+    "quote": "There is always some madness in love. But there is also always some reason in madness.",
+    "author": "Friedrich Nietzsche",
+    "profession": "German philosopher",
+    "topics": ["Philosophy", "Love"],
+    "id": 172,
+    "liked": false
+  },
+  {
+    "quote": "No price is too high to pay for the privilege of owning yourself.",
+    "author": "Friedrich Nietzsche",
+    "profession": "German philosopher",
+    "topics": ["Philosophy", "Advice"],
+    "id": 173,
+    "liked": false
+  },
+  {
+    "quote": "You know, when it works, Love is amazing. It's not overrated.",
+    "author": "Sarah Dessen",
+    "profession": "American novelist",
+    "topics": ["Love", "Life"],
+    "id": 174,
+    "liked": false
+  },
+  {
+    "quote": "Life is an awful, ugly place to not have a best friend.",
+    "author": "Sarah Dessen",
+    "profession": "American novelist",
+    "topics": ["Friends", "Life"],
+    "id": 175,
+    "liked": false
+  },
+  {
+    "quote": "There is never a time or place for true love. It happens accidentally, in a heartbeat, in a single flashing, throbbing moment.",
+    "author": "Sarah Dessen",
+    "profession": "American novelist",
+    "topics": ["Love", "Life"],
+    "id": 176,
+    "liked": false
+  },
+  {
+    "quote": "Anyone can hide. Facing up to things, working through them, that's what makes you strong.",
+    "author": "Sarah Dessen",
+    "profession": "American novelist",
+    "topics": ["Love", "Life"],
+    "id": 177,
+    "liked": false
+  },
+  {
+    "quote": "If you want to live a happy life, tie it to a goal, not to people or things",
+    "author": "Albert Einstein",
+    "profession": "Theoretical physicist",
+    "topics": ["Inspirational", "Life"],
+    "id": 178,
+    "liked": false
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "profession": "American entrepreneur",
+    "topics": ["Inspirational", "Life", "Advice"],
+    "id": 179,
+    "liked": false
+  },
+  {
+    "quote": "Everything around you that you call life was made up by people, and you can change it.",
+    "author": "Steve Jobs",
+    "profession": "American entrepreneur",
+    "topics": ["Inspirational", "Life", "People"],
+    "id": 180,
+    "liked": false
+  },
+  {
+    "quote": "Design is not just what it looks like and feels like. Design is how it works.",
+    "author": "Steve Jobs",
+    "profession": "American entrepreneur",
+    "topics": ["Inspirational", "Design"],
+    "id": 181,
+    "liked": false
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "profession": "American entrepreneur",
+    "topics": ["Inspirational", "Philosophy"],
+    "id": 182,
+    "liked": false
+  },
+  {
+    "quote": "Sometimes life is going to hit you in the head with a brick. Don't lose faith.",
+    "author": "Steve Jobs",
+    "profession": "American entrepreneur",
+    "topics": ["Faith", "Advice", "Life"],
+    "id": 183,
+    "liked": false
+  },
+  {
+    "quote": "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
+    "author": "Steve Jobs",
+    "profession": "American entrepreneur",
+    "topics": ["Innovation", "Advice"],
+    "id": 184,
+    "liked": false
+  },
+  {
+    "quote": "A lot of times, people don't know what they want until you show it to them.",
+    "author": "Steve Jobs",
+    "profession": "American entrepreneur",
+    "topics": ["People", "Philosophy"],
+    "id": 185,
+    "liked": false
+  },
+  {
+    "quote": "Let’s go invent tomorrow rather than worrying about what happened yesterday.",
+    "author": "Steve Jobs",
+    "profession": "American entrepreneur",
+    "topics": ["Innovation", "Inspirational"],
+    "id": 186,
+    "liked": false
+  },
+  {
+    "quote": "The most precious thing that we all have with us is time.",
+    "author": "Steve Jobs",
+    "profession": "American entrepreneur",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 187,
+    "liked": false
+  },
+  {
+    "quote": "You have to trust in something, your gut, destiny, life, karma, whatever.",
+    "author": "Steve Jobs",
+    "profession": "American entrepreneur",
+    "topics": ["Inspirational", "Life", "Faith"],
+    "id": 188,
+    "liked": false
+  },
+  {
+    "quote": "Every child is an artist, the problem is staying an artist when you grow up.",
+    "author": "Pablo Picasso",
+    "profession": "Spanish painter",
+    "topics": ["Art", "Life"],
+    "id": 189,
+    "liked": false
+  },
+  {
+    "quote": "The purpose of art is washing the dust of daily life off our souls.",
+    "author": "Pablo Picasso",
+    "profession": "Spanish painter",
+    "topics": ["Art", "Life"],
+    "id": 190,
+    "liked": false
+  },
+  {
+    "quote": "Good artists copy, great artists steal.",
+    "author": "Pablo Picasso",
+    "profession": "Spanish painter",
+    "topics": ["Art"],
+    "id": 191,
+    "liked": false
+  },
+  {
+    "quote": "Art is a lie that makes us realize truth.",
+    "author": "Pablo Picasso",
+    "profession": "Spanish painter",
+    "topics": ["Art"],
+    "id": 192,
+    "liked": false
+  },
+  {
+    "quote": "Inspiration does exist, but it must find you working.",
+    "author": "Pablo Picasso",
+    "profession": "Spanish painter",
+    "topics": ["Art", "Advice", "Inspirational"],
+    "id": 193,
+    "liked": false
+  },
+  {
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "profession": "Theoretical physicist",
+    "topics": ["Inspirational", "Life"],
+    "id": 194,
+    "liked": false
+  },
+  {
+    "quote": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+    "author": "Winston Churchill",
+    "profession": "Former British Prime Minister",
+    "topics": ["Inspirational", "Life"],
+    "id": 195,
+    "liked": false
+  },
+  {
+    "quote": "We learn wisdom from failure much more than from succes.",
+    "author": "Samuel Smiles",
+    "profession": "Scottish Author",
+    "topics": ["Inspirational", "Wisdom", "Failure", "Succes"],
+    "id": 196,
+    "liked": false
+  },
+  {
+    "quote": "Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.",
+    "author": "Samuel Smiles",
+    "profession": "Scottish Author",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 197,
+    "liked": false
+  },
+  {
+    "quote": "We often discover what will do, by finding out what will not do; and probably he who never made a mistake never made a discovery.",
+    "author": "Samuel Smiles",
+    "profession": "Scottish Author",
+    "topics": ["Inspirational", "Wisdom", "Failure"],
+    "id": 198,
+    "liked": false
+  },
+  {
+    "quote": "Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.",
+    "author": "Samuel Smiles",
+    "profession": "Scottish Author",
+    "topics": ["Inspirational", "Wisdom", "Time"],
+    "id": 199,
+    "liked": false
+  },
+  {
+    "quote": "Life will always be to a large extent what we ourselves make it.",
+    "author": "Samuel Smiles",
+    "profession": "Scottish Author",
+    "topics": ["Inspirational", "Life"],
+    "id": 200,
+    "liked": false
+  },
+  {
+    "quote": "Enthusiasm... the sustaining power of all great action.",
+    "author": "Samuel Smiles",
+    "profession": "Scottish Author",
+    "topics": ["Inspirational", "Life"],
+    "id": 201,
+    "liked": false
+  },
+  {
+    "quote": "People who are crazy enough to think they can change the world, are the ones who do.",
+    "author": "Winston Churchill",
+    "profession": "Former British Prime Minister",
+    "topics": ["Inspirational", "Life", "People"],
+    "id": 202,
+    "liked": false
+  },
+  {
+    "quote": "The fool doth think he is wise, but the wise man knows himself to be a fool.",
+    "author": "William Shakespeare",
+    "profession": "English poet",
+    "topics": ["Wisdom"],
+    "id": 203,
+    "liked": false
+  },
+  {
+    "quote": "There is nothing either good or bad, but thinking makes it so.",
+    "author": "William Shakespeare",
+    "profession": "English poet",
+    "topics": ["Philosophy"],
+    "id": 204,
+    "liked": false
+  },
+  {
+    "quote": "You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it.",
+    "author": "Malcolm X",
+    "profession": "American minister",
+    "topics": ["Philosophy"],
+    "id": 205,
+    "liked": false
+  },
+  {
+    "quote": "Hell is empty and all the devils are here.",
+    "author": "William Shakespeare",
+    "profession": "English poet",
+    "topics": ["Philosophy"],
+    "id": 206,
+    "liked": false
+  },
+  {
+    "quote": "The course of true Love never did run smooth.",
+    "author": "William Shakespeare",
+    "profession": "English poet",
+    "topics": ["Love", "Wisdom"],
+    "id": 207,
+    "liked": false
+  },
+  {
+    "quote": "Expectation is the root of all heartache.",
+    "author": "William Shakespeare",
+    "profession": "English poet",
+    "topics": ["Philosophy", "Wisdom"],
+    "id": 208,
+    "liked": false
+  },
+  {
+    "quote": "Listen to many, speak to a few.",
+    "author": "William Shakespeare",
+    "profession": "English poet",
+    "topics": ["Wisdom", "Inspirational"],
+    "id": 209,
+    "liked": false
+  },
+  {
+    "quote": "One may smile, and smile, and be a villain.",
+    "author": "William Shakespeare",
+    "profession": "English poet",
+    "topics": ["Philosophy", "Wisdom"],
+    "id": 210,
+    "liked": false
+  },
+  {
+    "quote": "Any fool can know. The point is to understand.",
+    "author": "Albert Einstein",
+    "profession": "Theoretical physicist",
+    "topics": ["Philosophy", "Wisdom", "Inspirational"],
+    "id": 211,
+    "liked": false
+  },
+  {
+    "quote": "It is not that I'm so smart. But I stay with the questions much longer.",
+    "author": "Albert Einstein",
+    "profession": "Theoretical physicist",
+    "topics": ["Philosophy", "Wisdom", "Inspirational"],
+    "id": 212,
+    "liked": false
+  },
+  {
+    "quote": "Build your own dreams, or someone else will hire you to build theirs.",
+    "author": "Farrah Gray",
+    "profession": "American businessman",
+    "topics": ["Wisdom", "Inspirational", "Dream"],
+    "id": 213,
+    "liked": false
+  },
+  {
+    "quote": "Comfort is the enemy of achievement",
+    "author": "Farrah Gray",
+    "profession": "American businessman",
+    "topics": ["Achievement", "Inspirational"],
+    "id": 214,
+    "liked": false
+  },
+  {
+    "quote": "You know, you don't have to have money to be a successful businessperson.",
+    "author": "Farrah Gray",
+    "profession": "American businessman",
+    "topics": ["Business", "Inspirational"],
+    "id": 215,
+    "liked": false
+  },
+  {
+    "quote": "I can dream alone and strive alone, but true success always requires the help and support of others.",
+    "author": "Farrah Gray",
+    "profession": "American businessman",
+    "topics": ["People", "Success", "Dream"],
+    "id": 216,
+    "liked": false
+  },
+  {
+    "quote": "Success isn’t something that happens overnight: it’s a process.",
+    "author": "Farrah Gray",
+    "profession": "American businessman",
+    "topics": ["Business", "Inspirational", "Succes"],
+    "id": 217,
+    "liked": false
+  },
+  {
+    "quote": "The more we give, the more we receive. It's important to give back, because the seeds you plant today, you will harvest tomorrow.",
+    "author": "Farrah Gray",
+    "profession": "American businessman",
+    "topics": ["Giving"],
+    "id": 218,
+    "liked": false
+  },
+  {
+    "quote": "Either you run the day, or the day runs you.",
+    "author": "Jim Rohn",
+    "profession": "American entrepreneur",
+    "topics": ["Philosophy", "Inspirational"],
+    "id": 219,
+    "liked": false
+  },
+  {
+    "quote": "Start from wherever you are and with whatever you’ve got.",
+    "author": "Jim Rohn",
+    "profession": "American entrepreneur",
+    "topics": ["Advice", "Motivational"],
+    "id": 220,
+    "liked": false
+  },
+  {
+    "quote": "Without constant activity, the threats of life will soon overwhelm the values",
+    "author": "Jim Rohn",
+    "profession": "American entrepreneur",
+    "topics": ["Life", "Wisdom"],
+    "id": 221,
+    "liked": false
+  },
+  {
+    "quote": "If you don’t like how things are, change it! You’re not a tree.",
+    "author": "Jim Rohn",
+    "profession": "American entrepreneur",
+    "topics": ["Motivational", "Wisdom"],
+    "id": 222,
+    "liked": false
+  },
+  {
+    "quote": "Success is neither magical nor mysterious. Success is the natural consequence of consistently applying basic fundamentals.",
+    "author": "Jim Rohn",
+    "profession": "American entrepreneur",
+    "topics": ["Motivational", "Success"],
+    "id": 223,
+    "liked": false
+  },
+  {
+    "quote": "How long should you try? Until.",
+    "author": "Jim Rohn",
+    "profession": "American entrepreneur",
+    "topics": ["Motivational", "Inspirational"],
+    "id": 224,
+    "liked": false
+  },
+  {
+    "quote": "Focus on making yourself better, not on thinking that you are better.",
+    "author": "Bohdi Sanders",
+    "profession": "Author",
+    "topics": ["Inspirational", "Advice"],
+    "id": 225,
+    "liked": false
+  },
+  {
+    "quote": "A true friend is someone you can count on no matter what.",
+    "author": "Bohdi Sanders",
+    "profession": "Author",
+    "topics": ["Friends", "Wisdom"],
+    "id": 226,
+    "liked": false
+  },
+  {
+    "quote": "Face your fears and you will be able to conquer them.",
+    "author": "Bohdi Sanders",
+    "profession": "Author",
+    "topics": ["Fear", "Advice"],
+    "id": 227,
+    "liked": false
+  },
+  {
+    "quote": "If you want to know what people believe, don’t read what they write, don’t ask what they believe, just observe what they do.",
+    "author": "Bohdi Sanders",
+    "profession": "Author",
+    "topics": ["People", "Inspirational"],
+    "id": 228,
+    "liked": false
+  },
+  {
+    "quote": "I used to think I was indecisive, but now I am not quite sure.",
+    "author": "Tommy Cooper",
+    "profession": "British Comedian",
+    "topics": ["Humor"],
+    "id": 229,
+    "liked": false
+  },
+  {
+    "quote": "Police arrested two kids yesterday, one was drinking battery acid, the other was eating fireworks. They charged one and let the other one off.",
+    "author": "Tommy Cooper",
+    "profession": "British Comedian",
+    "topics": ["Humor"],
+    "id": 230,
+    "liked": false
+  },
+  {
+    "quote": "You know, somebody actually complimented me on my driving today. They left a little note on the windscreen, it said 'Parking Fine.'",
+    "author": "Tommy Cooper",
+    "profession": "British Comedian",
+    "topics": ["Humor"],
+    "id": 231,
+    "liked": false
+  },
+  {
+    "quote": "A lie gets halfway around the world before the truth has a chance to get its pants on.",
+    "author": "Winston Churchill",
+    "profession": "Former British Prime Minister",
+    "topics": ["Humor", "Life"],
+    "id": 232,
+    "liked": false
+  },
+  {
+    "quote": "Knowledge is like underwear. It is useful to have it, but not necessary to show it off.",
+    "author": "Bill Murray",
+    "profession": "American actor",
+    "topics": ["Humor"],
+    "id": 233,
+    "liked": false
+  },
+  {
+    "quote": "We are all here on earth to help others; what on earth the others are here for I don't know.",
+    "author": "Bill Murray",
+    "profession": "American actor",
+    "topics": ["Humor"],
+    "id": 234,
+    "liked": false
+  },
+  {
+    "quote": "Happiness is having a large, loving, caring, close-knit family in another city.",
+    "author": "George Burns",
+    "profession": "American comedian",
+    "topics": ["Humor"],
+    "id": 235,
+    "liked": false
+  },
+  {
+    "quote": "A professor is someone who talks in someone else's sleep.",
+    "author": "W. H. Auden",
+    "profession": "English-American Poet",
+    "topics": ["Humor"],
+    "id": 236,
+    "liked": false
+  },
+  {
+    "quote": "Everything is changing. People are taking the comedians seriously and the politicians as a joke.",
+    "author": "Will Rogers",
+    "profession": "American actor",
+    "topics": ["Humor"],
+    "id": 237,
+    "liked": false
+  },
+  {
+    "quote": "That’s why they call it the American Dream, because you have to be asleep to believe it.",
+    "author": "George Carlin",
+    "profession": "American comedian",
+    "topics": ["Humor"],
+    "id": 238,
+    "liked": false
+  },
+  {
+    "quote": "If you’re too open-minded; your brains may fall out.",
+    "author": "Lawrence Ferlinghetti",
+    "profession": "American poet",
+    "topics": ["Humor"],
+    "id": 239,
+    "liked": false
+  },
+  {
+    "quote": "If you think nobody cares about you, try missing a couple of payments.",
+    "author": "Steven Wright",
+    "profession": "American stand-up comedian",
+    "topics": ["Humor"],
+    "id": 240,
+    "liked": false
+  },
+  {
+    "quote": "There's a fine line between fishing and just standing on the shore like an idiot.",
+    "author": "Steven Wright",
+    "profession": "American stand-up comedian",
+    "topics": ["Humor"],
+    "id": 241,
+    "liked": false
+  },
+  {
+    "quote": "If at first you don't succeed then skydiving definitely isn't for you.",
+    "author": "Steven Wright",
+    "profession": "American stand-up comedian",
+    "topics": ["Humor"],
+    "id": 242,
+    "liked": false
+  },
+  {
+    "quote": "A lot of people are afraid of heights. Not me, I'm afraid of widths.",
+    "author": "Steven Wright",
+    "profession": "American stand-up comedian",
+    "topics": ["Humor"],
+    "id": 243,
+    "liked": false
+  },
+  {
+    "quote": "What's another word for Thesaurus?",
+    "author": "Steven Wright",
+    "profession": "American stand-up comedian",
+    "topics": ["Humor"],
+    "id": 244,
+    "liked": false
+  },
+  {
+    "quote": "You can't have everything. Where would you put it?",
+    "author": "Steven Wright",
+    "profession": "American stand-up comedian",
+    "topics": ["Humor"],
+    "id": 245,
+    "liked": false
+  },
+  {
+    "quote": "Don’t be so humble – you are not that great.",
+    "author": "Golda Meir",
+    "profession": "Former Prime Minister of Israel",
+    "topics": ["Humor"],
+    "id": 246,
+    "liked": false
+  },
+  {
+    "quote": "Whether women are better than men I cannot say - but I can say they are certainly no worse.",
+    "author": "Golda Meir",
+    "profession": "Former Prime Minister of Israel",
+    "topics": ["Humor"],
+    "id": 247,
+    "liked": false
+  },
+  {
+    "quote": "The best way to teach your kids about taxes is by eating 30 percent of their ice cream.",
+    "author": "Bill Murray",
+    "profession": "American actor",
+    "topics": ["Humor"],
+    "id": 248,
+    "liked": false
+  },
+  {
+    "quote": "You can't soar with the eagles as long as you hang out with the turkeys.",
+    "author": "Joel Osteen",
+    "profession": "American televangelist",
+    "topics": ["Philosophy", "Inspirational"],
+    "id": 249,
+    "liked": false
+  },
+  {
+    "quote": "You can change your world by changing your words... Remember, death and life are in the power of the tongue.",
+    "author": "Joel Osteen",
+    "profession": "American televangelist",
+    "topics": ["Philosophy", "Life"],
+    "id": 250,
+    "liked": false
+  },
+  {
+    "quote": "Nothing is impossible, the word itself says 'I'm possible'!",
+    "author": "Audrey Hepburn",
+    "profession": "British actress",
+    "topics": ["Humor", "Inspirational"],
+    "id": 251,
+    "liked": false
+  },
+  {
+    "quote": "As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.",
+    "author": "Audrey Hepburn",
+    "profession": "British actress",
+    "topics": ["People", "Inspirational"],
+    "id": 252,
+    "liked": false
+  },
+  {
+    "quote": "I never think of myself as an icon. What is in other people's minds is not in my mind. I just do my thing.",
+    "author": "Audrey Hepburn",
+    "profession": "British actress",
+    "topics": ["People", "Inspirational"],
+    "id": 253,
+    "liked": false
+  },
+  {
+    "quote": "The best thing to hold onto in life is each other.",
+    "author": "Audrey Hepburn",
+    "profession": "British actress",
+    "topics": ["People", "Life"],
+    "id": 254,
+    "liked": false
+  },
+  {
+    "quote": "Be nice to nerds. Chances are you'll end up working for one.",
+    "author": "Bill Gates",
+    "profession": "American business magnate",
+    "topics": ["Humor", "Advice"],
+    "id": 255,
+    "liked": false
+  },
+  {
+    "quote": "Your most unhappy customers are your greatest source of learning.",
+    "author": "Bill Gates",
+    "profession": "American business magnate",
+    "topics": ["Inspirational", "People"],
+    "id": 256,
+    "liked": false
+  },
+  {
+    "quote": "Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
+    "author": "Bill Gates",
+    "profession": "American business magnate",
+    "topics": ["Inspirational", "People"],
+    "id": 257,
+    "liked": false
+  },
+  {
+    "quote": "Life is not fair; get used to it.",
+    "author": "Bill Gates",
+    "profession": "American business magnate",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 258,
+    "liked": false
+  },
+  {
+    "quote": "If you can't make it good, at least make it look good.",
+    "author": "Bill Gates",
+    "profession": "American business magnate",
+    "topics": ["Inspirational", "Wisdom", "Advice"],
+    "id": 259,
+    "liked": false
+  },
+  {
+    "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein",
+    "profession": "Theoretical physicist",
+    "topics": ["Life", "Inspirational"],
+    "id": 260,
+    "liked": false
+  },
+  {
+    "quote": "Nearly all men can stand adversity, but if you want to test a man’s character, give him power.",
+    "author": "Abraham Lincoln",
+    "profession": "16th U.S. President",
+    "topics": ["Philosophy", "Wisdom"],
+    "id": 261,
+    "liked": false
+  },
+  {
+    "quote": "The best way to predict your future is to create it.",
+    "author": "Abraham Lincoln",
+    "profession": "16th U.S. President",
+    "topics": ["Life", "Philosophy", "Wisdom"],
+    "id": 262,
+    "liked": false
+  },
+  {
+    "quote": "I would rather be a little nobody, then to be a evil somebody.",
+    "author": "Abraham Lincoln",
+    "profession": "16th U.S. President",
+    "topics": ["Philosophy", "Wisdom"],
+    "id": 263,
+    "liked": false
+  },
+  {
+    "quote": "I will prepare and some day my chance will come.",
+    "author": "Abraham Lincoln",
+    "profession": "16th U.S. President",
+    "topics": ["Inspirational", "Life"],
+    "id": 264,
+    "liked": false
+  },
+  {
+    "quote": "Important principles may, and must, be inflexible.",
+    "author": "Abraham Lincoln",
+    "profession": "16th U.S. President",
+    "topics": ["Philosophy", "Wisdom", "Inspirational"],
+    "id": 265,
+    "liked": false
+  },
+  {
+    "quote": "Tact is the ability to describe others as they see themselves.",
+    "author": "Abraham Lincoln",
+    "profession": "16th U.S. President",
+    "topics": ["Philosophy", "Wisdom"],
+    "id": 266,
+    "liked": false
+  },
+  {
+    "quote": "You cannot escape the responsibility of tomorrow by evading it today.",
+    "author": "Abraham Lincoln",
+    "profession": "16th U.S. President",
+    "topics": ["Inspirational", "Philosophy", "Wisdom"],
+    "id": 267,
+    "liked": false
+  },
+  {
+    "quote": "Knowing thyself, that is the greatest wisdom.",
+    "author": "Galileo Galilei",
+    "profession": "Italian Polymath",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 268,
+    "liked": false
+  },
+  {
+    "quote": "To be humane, we must ever be ready to pronounce that wise, ingenious and modest statement 'I do not know'.",
+    "author": "Galileo Galilei",
+    "profession": "Italian Polymath",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 269,
+    "liked": false
+  },
+  {
+    "quote": "Two truths cannot contradict one another.",
+    "author": "Galileo Galilei",
+    "profession": "Italian Polymath",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 270,
+    "liked": false
+  },
+  {
+    "quote": "Where the senses fail us, reason must step in.",
+    "author": "Galileo Galilei",
+    "profession": "Italian Polymath",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 271,
+    "liked": false
+  },
+  {
+    "quote": "All truths are easy to understand once they are discovered; the point is to discover them.",
+    "author": "Galileo Galilei",
+    "profession": "Italian Polymath",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 272,
+    "liked": false
+  },
+  {
+    "quote": "The philosophers have only interpreted the world, in various ways. The point, however, is to change it.",
+    "author": "Karl Marx",
+    "profession": "German Philosopher",
+    "topics": ["Inspirational", "Philosophy"],
+    "id": 273,
+    "liked": false
+  },
+  {
+    "quote": "Surround yourself with people who make you happy. People who make you laugh, who help you when you’re in need. People who genuinely care. They are the ones worth keeping in your life. Everyone else is just passing through.",
+    "author": "Karl Marx",
+    "profession": "German Philosopher",
+    "topics": ["Happiness", "Friends"],
+    "id": 274,
+    "liked": false
+  },
+  {
+    "quote": "I think, therefore I am.",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Philosophy"],
+    "id": 275,
+    "liked": false
+  },
+  {
+    "quote": "The reading of all good books is like conversation with the finest men of past centuries.",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Reading", "Advice"],
+    "id": 276,
+    "liked": false
+  },
+  {
+    "quote": "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things.",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Truth"],
+    "id": 277,
+    "liked": false
+  },
+  {
+    "quote": "Conquer yourself rather than the world.",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Advice", "Wisdom"],
+    "id": 278,
+    "liked": false
+  },
+  {
+    "quote": "Doubt is the origin of wisdom",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Failure", "Wisdom", "Motivational"],
+    "id": 279,
+    "liked": false
+  },
+  {
+    "quote": "Common sense is the most widely shared commodity in the world, for every man is convinced that he is well supplied with it",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Humor"],
+    "id": 280,
+    "liked": false
+  },
+  {
+    "quote": "Except our own thoughts, there is nothing absolutely in our power.",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Philosophy", "Advice", "Mentoring"],
+    "id": 281,
+    "liked": false
+  },
+  {
+    "quote": "Except our own thoughts, there is nothing absolutely in our power.",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Philosophy", "Advice", "Mentoring"],
+    "id": 282,
+    "liked": false
+  },
+  {
+    "quote": "It is not enough to have a good mind; the main thing is to use it well.",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Mentoring"],
+    "id": 283,
+    "liked": false
+  },
+  {
+    "quote": "To know what people really think, pay attention to what they do, rather than what they say.",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Advice", "People"],
+    "id": 284,
+    "liked": false
+  },
+  {
+    "quote": "And thus, the actions of life often not allowing any delay, it is a truth very certain that, when it is not in our power to determine the most true opinions we ought to follow the most probable.",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Truth", "Wisdom"],
+    "id": 285,
+    "liked": false
+  },
+  {
+    "quote": "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Wisdom", "Morality"],
+    "id": 286,
+    "liked": false
+  },
+  {
+    "quote": "I desire to live in peace and to continue the life I have begun under the motto 'to live well you must live unseen.",
+    "author": "René Descartes",
+    "profession": "French philosopher",
+    "topics": ["Happiness", "Life"],
+    "id": 287,
+    "liked": false
+  },
+  {
+    "quote": "We are not rich by what we possess but by what we can do without.",
+    "author": "Immanuel Kant",
+    "profession": "German philosopher",
+    "topics": ["Success", "Life"],
+    "id": 288,
+    "liked": false
+  },
+  {
+    "quote": "He who is cruel to animals becomes hard also in his dealings with men. We can judge the heart of a man by his treatment of animals.",
+    "author": "Immanuel Kant",
+    "profession": "German philosopher",
+    "topics": ["Morality"],
+    "id": 289,
+    "liked": false
+  },
+  {
+    "quote": "Look closely. The beautiful may be small.",
+    "author": "Immanuel Kant",
+    "profession": "German philosopher",
+    "topics": ["Life", "Happiness", "Life"],
+    "id": 290,
+    "liked": false
+  },
+  {
+    "quote": "I had to deny knowledge in order to make room for faith.",
+    "author": "Immanuel Kant",
+    "profession": "German philosopher",
+    "topics": ["Faith", "Religion"],
+    "id": 291,
+    "liked": false
+  },
+  {
+    "quote": "Look closely. The beautiful may be small.",
+    "author": "Immanuel Kant",
+    "profession": "German philosopher",
+    "topics": ["Life", "Happiness"],
+    "id": 292,
+    "liked": false
+  },
+  {
+    "quote": "One who makes himself a worm cannot complain afterwards if people step on him.",
+    "author": "Immanuel Kant",
+    "profession": "German philosopher",
+    "topics": ["Life", "Advice", "Mentoring"],
+    "id": 293,
+    "liked": false
+  },
+  {
+    "quote": "Dare to think!",
+    "author": "Immanuel Kant",
+    "profession": "German philosopher",
+    "topics": ["Dream", "Imagination"],
+    "id": 294,
+    "liked": false
+  },
+  {
+    "quote": "Look closely. The beautiful may be small.",
+    "author": "Immanuel Kant",
+    "profession": "German philosopher",
+    "topics": ["Life", "Happiness", "Life"],
+    "id": 295,
+    "liked": false
+  },
+  {
+    "quote": "All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.",
+    "author": "Immanuel Kant",
+    "profession": "German philosopher",
+    "topics": ["Wisdom"],
+    "id": 296,
+    "liked": false
+  },
+  {
+    "quote": "Rules for happiness: something to do, someone to love, something to hope for.",
+    "author": "Immanuel Kant",
+    "profession": "German philosopher",
+    "topics": ["Love", "Happiness", "Inspirational"],
+    "id": 297,
+    "liked": false
+  },
+  {
+    "quote": "Do not be afraid; our fate cannot be taken from us, it is a gift.",
+    "author": "Dante Alighieri",
+    "profession": "Italian Poet",
+    "topics": ["Faith", "Fear", "Inspirational"],
+    "id": 298,
+    "liked": false
+  },
+  {
+    "quote": "My course is set for an uncharted sea.",
+    "author": "Dante Alighieri",
+    "profession": "Italian Poet",
+    "topics": ["Inspirational"],
+    "id": 299,
+    "liked": false
+  },
+  {
+    "quote": "The hottest places in hell are reserved for those who, in times of great moral crisis, maintain their neutrality.",
+    "author": "Dante Alighieri",
+    "profession": "Italian Poet",
+    "topics": ["Morality"],
+    "id": 300,
+    "liked": false
+  },
+  {
+    "quote": "There is no greater sorrow, than to recall a happy time when miserable.",
+    "author": "Dante Alighieri",
+    "profession": "Italian Poet",
+    "topics": ["Life", "Failure"],
+    "id": 301,
+    "liked": false
+  },
+  {
+    "quote": "The path to paradise begins in hell.",
+    "author": "Dante Alighieri",
+    "profession": "Italian Poet",
+    "topics": ["Motivational", "Inspirational"],
+    "id": 302,
+    "liked": false
+  },
+  {
+    "quote": "In that book which is my memory, on the first page of the chapter that is the day when I first met you, appear the words, Here begins a new life",
+    "author": "Dante Alighieri",
+    "profession": "Italian Poet",
+    "topics": ["Love"],
+    "id": 303,
+    "liked": false
+  },
+  {
+    "quote": "The wisest are the most annoyed at the loss of time.",
+    "author": "Dante Alighieri",
+    "profession": "Italian Poet",
+    "topics": ["Time", "Wisdom", "Motivational"],
+    "id": 304,
+    "liked": false
+  },
+  {
+    "quote": "Not all those who wander are lost.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Imagination", "Motivational", "Inspirational"],
+    "id": 305,
+    "liked": false
+  },
+  {
+    "quote": "All we have to decide is what to do with the time that is given us.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Time", "Motivational", "Inspirational"],
+    "id": 306,
+    "liked": false
+  },
+  {
+    "quote": "Faithless is he that says farewell when the road darkens.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Motivational"],
+    "id": 307,
+    "liked": false
+  },
+  {
+    "quote": "I will not say: do not weep; for not all tears are an evil.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Happiness", "Friends"],
+    "id": 308,
+    "liked": false
+  },
+  {
+    "quote": "It's the job that's never started as takes longest to finish.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Motivational", "Advice"],
+    "id": 309,
+    "liked": false
+  },
+  {
+    "quote": "It is useless to meet revenge with revenge; it will heal nothing.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Wisdom", "Morality"],
+    "id": 310,
+    "liked": false
+  },
+  {
+    "quote": "It is not despair, for despair is only for those who see the end beyond all doubt. We do not.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Fear", "Life", "Motivational"],
+    "id": 311,
+    "liked": false
+  },
+  {
+    "quote": "His grief he will not forget; but it will not darken his heart, it will teach him wisdom.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Inspirational", "Wisdom"],
+    "id": 312,
+    "liked": false
+  },
+  {
+    "quote": "A man that flies from his fear may find that he has only taken a short cut to meet it.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Fear", "Advice"],
+    "id": 313,
+    "liked": false
+  },
+  {
+    "quote": "The wide world is all about you: you can fence yourselves in, but you cannot forever fence it out.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Fear", "Advice", "Mentoring"],
+    "id": 314,
+    "liked": false
+  },
+  {
+    "quote": "Deep roots are not reached by the frost.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Wisdom", "Mentoring"],
+    "id": 315,
+    "liked": false
+  },
+  {
+    "quote": "I will not walk backward in life.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Life", "Mentoring", "Motivational"],
+    "id": 316,
+    "liked": false
+  },
+  {
+    "quote": "Even the smallest person can change the course of the future.",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Inspirational", "Imagination", "Motivational"],
+    "id": 317,
+    "liked": false
+  },
+  {
+    "quote": "Short cuts make long delays",
+    "author": "J.R.R Tolkien",
+    "profession": "Englist Author",
+    "topics": ["Advice", "Mentoring"],
+    "id": 318,
+    "liked": false
+  }
+]

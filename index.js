@@ -1,9 +1,13 @@
 const express = require("express");
+const DUMMY_DATA = require("./testData.json");
+const randomFromArray = require("./randomFromArray");
 
 const app = express();
 
 app.get("/api", (req, res) => {
-  res.send("Express on Vercel");
+  const randomQuote = randomFromArray(DUMMY_DATA);
+
+  res.json(randomQuote);
 });
 
 app.listen(3000, () => {
