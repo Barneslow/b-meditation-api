@@ -2,18 +2,22 @@ const express = require("express");
 const DUMMY_DATA = require("./testData.json");
 const randomFromArray = require("./randomFromArray");
 const notifications = require("./notifications");
+const schedule = require("node-schedule");
 
 const app = express();
 
-app.get("/api", async (req, res) => {
+schedule.scheduleJob("0 * * ? * *", () => {
   const randomQuote = randomFromArray(DUMMY_DATA);
 
-  const response = await notifications.sendPushNotification(
-    "Token ExponentPushToken[lWVYdEKN8YfYnpnKFW0koX]",
-    "'This is a test push notification'"
+  const response = notifications.sendPushNotification(
+    "ExponentPushToken[bZ6mC9BhyifbhaBNOpFJCU]",
+    randomQuote.author,
+    randomQuote.quote
   );
+});
 
-  console.log(response);
+app.get("/api", async (req, res) => {
+  const randomQuote = randomFromArray(DUMMY_DATA);
 
   res.json(randomQuote);
 });
