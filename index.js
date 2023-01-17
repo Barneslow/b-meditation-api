@@ -6,17 +6,16 @@ const schedule = require("node-schedule");
 
 const app = express();
 
-schedule.scheduleJob("* * * ? * *	", () => {
-  const randomQuote = randomFromArray(DUMMY_DATA);
+// schedule.scheduleJob("* * * ? * *	", () => {
+//   const randomQuote = randomFromArray(DUMMY_DATA);
 
-  const response = notifications.sendPushNotification(
-    "ExponentPushToken[FRJvJ1OIm_FL9pLlItdlN_]",
-    randomQuote.author,
-    randomQuote.quote
-  );
+//   const response = notifications.sendPushNotification(
+//     "ExponentPushToken[FRJvJ1OIm_FL9pLlItdlN_]",
+//     randomQuote.author,
+//     randomQuote.quote
+//   );
 
-  console.log(response);
-});
+// });
 
 app.get("/", async (req, res) => {
   const randomQuote = randomFromArray(DUMMY_DATA);
@@ -26,8 +25,6 @@ app.get("/", async (req, res) => {
     randomQuote.author,
     randomQuote.quote
   );
-
-  console.log(response);
 
   res.json(randomQuote);
 });
