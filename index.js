@@ -10,7 +10,7 @@ schedule.scheduleJob("0 * * ? * *", () => {
   const randomQuote = randomFromArray(DUMMY_DATA);
 
   const response = notifications.sendPushNotification(
-    "ExponentPushToken[bZ6mC9BhyifbhaBNOpFJCU]",
+    "ExponentPushToken[RnF5o1JqsV_hqLEfVX7jyC]",
     randomQuote.author,
     randomQuote.quote
   );

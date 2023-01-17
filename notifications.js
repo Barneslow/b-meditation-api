@@ -1,7 +1,6 @@
 const { Expo } = require("expo-server-sdk");
 
 exports.sendPushNotification = async (pushToken, title, message) => {
-  console.log("fire");
   try {
     // Create a new Expo object
     const expo = new Expo();
