@@ -20,6 +20,8 @@ const app = express();
 app.get("/", async (req, res) => {
   const randomQuote = randomFromArray(DUMMY_DATA);
 
+  console.log("fire");
+
   const response = notifications.sendPushNotification(
     "ExponentPushToken[FRJvJ1OIm_FL9pLlItdlN_]",
     randomQuote.author,
