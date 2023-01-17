@@ -16,7 +16,7 @@ const app = express();
 //   );
 // });
 
-app.get("/api", async (req, res) => {
+app.get("/", async (req, res) => {
   const randomQuote = randomFromArray(DUMMY_DATA);
 
   const response = notifications.sendPushNotification(
