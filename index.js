@@ -25,6 +25,8 @@ schedule.scheduleJob("0 12 * * *	", async () => {
       randomQuote.quote
     )
   );
+
+  console.log("fire");
 });
 
 app.get("/", async (req, res) => {
