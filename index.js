@@ -13,7 +13,7 @@ const { createExpoToken, getAllExpoTokens } = require("./airtable");
 
 app.use(express.json());
 
-schedule.scheduleJob("*/1 * * * *	", async () => {
+schedule.scheduleJob("0 12 * * *	", async () => {
   const randomQuote = randomFromArray(DUMMY_DATA);
 
   const expoPushTokens = await getAllExpoTokens();
