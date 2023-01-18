@@ -13,15 +13,19 @@ const { createExpoToken, getAllExpoTokens } = require("./airtable");
 
 app.use(express.json());
 
-// schedule.scheduleJob("0 * * ? * *	", () => {
-//   const randomQuote = randomFromArray(DUMMY_DATA);
+schedule.scheduleJob("*/1 * * * *	", async () => {
+  const randomQuote = randomFromArray(DUMMY_DATA);
 
-//   const response = notifications.sendPushNotification(
-//     "ExponentPushToken[FRJvJ1OIm_FL9pLlItdlN_]",
-//     randomQuote.author,
-//     randomQuote.quote
-//   );
-// });
+  const expoPushTokens = await getAllExpoTokens();
+
+  expoPushTokens.forEach((token) =>
+    notifications.sendPushNotification(
+      token,
+      randomQuote.author,
+      randomQuote.quote
+    )
+  );
+});
 
 app.get("/", async (req, res) => {
   const randomQuote = randomFromArray(DUMMY_DATA);
