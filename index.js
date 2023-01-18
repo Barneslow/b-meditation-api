@@ -36,7 +36,7 @@ app.get("/", async (req, res) => {
     )
   );
 
-  res.json("Sending push notifications");
+  res.json(expoPushTokens);
 });
 
 app.post("/", async (req, res) => {
