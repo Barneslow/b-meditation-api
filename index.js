@@ -6,26 +6,45 @@ const schedule = require("node-schedule");
 
 const app = express();
 
-schedule.scheduleJob("0 * * ? * *	", () => {
-  const randomQuote = randomFromArray(DUMMY_DATA);
+const dotenv = require("dotenv");
+dotenv.config({ path: "./.env" });
 
-  const response = notifications.sendPushNotification(
-    "ExponentPushToken[FRJvJ1OIm_FL9pLlItdlN_]",
-    randomQuote.author,
-    randomQuote.quote
-  );
-});
+const { createExpoToken, getAllExpoTokens } = require("./airtable");
+
+app.use(express.json());
+
+// schedule.scheduleJob("0 * * ? * *	", () => {
+//   const randomQuote = randomFromArray(DUMMY_DATA);
+
+//   const response = notifications.sendPushNotification(
+//     "ExponentPushToken[FRJvJ1OIm_FL9pLlItdlN_]",
+//     randomQuote.author,
+//     randomQuote.quote
+//   );
+// });
 
 app.get("/", async (req, res) => {
   const randomQuote = randomFromArray(DUMMY_DATA);
 
-  // const response = notifications.sendPushNotification(
-  //   "ExponentPushToken[FRJvJ1OIm_FL9pLlItdlN_]",
-  //   randomQuote.author,
-  //   randomQuote.quote
-  // );
+  const expoPushTokens = await getAllExpoTokens();
 
-  res.json(randomQuote);
+  expoPushTokens.forEach((token) =>
+    notifications.sendPushNotification(
+      token,
+      randomQuote.author,
+      randomQuote.quote
+    )
+  );
+
+  res.json("Sending push notifications");
+});
+
+app.post("/", async (req, res) => {
+  const { token } = req.body;
+
+  const response = await createExpoToken(token);
+
+  res.json(response);
 });
 
 app.listen(3000, () => {
