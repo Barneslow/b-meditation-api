@@ -17,7 +17,7 @@ const {
 
 app.use(express.json());
 
-schedule.scheduleJob("0 12 * * *", async () => {
+schedule.scheduleJob("* * * * *", async () => {
   const randomQuote = randomFromArray(DUMMY_DATA);
 
   const expoPushTokens = await getAllExpoTokens();
