@@ -37,23 +37,26 @@ exports.createExpoToken = async (token) => {
     if (expoToken) {
       return expoToken;
     } else {
-      table.create(
-        [
-          {
-            fields: { token },
-          },
-        ],
-        function (err, records) {
-          if (err) {
-            console.error(err);
-            return;
+      const recordID = await new Promise((resolve, reject) => {
+        table.create(
+          [
+            {
+              fields: { token },
+            },
+          ],
+          function (err, records) {
+            if (err) {
+              reject(err);
+              return;
+            }
+            records.forEach(function (record) {
+              resolve(record.getId());
+            });
           }
-          records.forEach(function (record) {
-            console.log(record.getId());
-          });
-        }
-      );
-      return "creating";
+        );
+      });
+
+      return recordID;
     }
   } catch (err) {
     console.log(err);

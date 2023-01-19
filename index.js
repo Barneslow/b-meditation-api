@@ -45,6 +45,7 @@ app.get("/", async (req, res) => {
   //     randomQuote.quote
   //   )
   // );
+  console.log(select);
 
   res.json(select);
 });
@@ -52,9 +53,9 @@ app.get("/", async (req, res) => {
 app.post("/", async (req, res) => {
   const { token } = req.body;
 
-  const response = await createExpoToken(token);
+  const recordID = await createExpoToken(token);
 
-  res.json(response);
+  res.json(recordID);
 });
 
 app.listen(3001, () => {
