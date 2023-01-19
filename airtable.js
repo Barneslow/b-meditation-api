@@ -62,9 +62,10 @@ exports.createExpoToken = async (token) => {
     console.log(err);
   }
 };
-
 exports.getAllExpoTokens = async () => {
   return new Promise((resolve, reject) => {
+    const expoTokens = [];
+
     table.select().eachPage(
       function page(records, fetchNextPage) {
         records.forEach((record) => {
