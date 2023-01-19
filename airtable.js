@@ -5,17 +5,36 @@ const base = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY }).base(
 
 const table = base("Expo Token");
 
+exports.getExpoToken = async (token) => {
+  const selected = await new Promise((resolve, reject) => {
+    table.select({ filterByFormula: `token="${token}"` }).eachPage(
+      function page(records, fetchNextPage) {
+        records.forEach(function (record) {
+          const expotoken = record.fields.token;
+          if (expotoken) {
+            resolve(expotoken);
+          }
+        });
+        fetchNextPage();
+      },
+      function done(err) {
+        if (err) {
+          reject(err);
+        } else {
+          resolve(undefined);
+        }
+      }
+    );
+  });
+
+  return selected;
+};
+
 exports.createExpoToken = async (token) => {
   try {
-    const findExpoToken = await table
-      .select({ filterByFormula: `token="${token}"` })
-      .firstPage();
+    const expoToken = await this.getExpoToken(token);
 
-    if (findExpoToken.length !== 0) {
-      const expoToken = findExpoToken.map((record) => {
-        return { ...record.fields };
-      });
-
+    if (expoToken) {
       return expoToken;
     } else {
       table.create(
@@ -41,10 +60,8 @@ exports.createExpoToken = async (token) => {
   }
 };
 
-exports.getAllExpoTokens = async () => {
+exports.getAllExpoToken = async () => {
   return new Promise((resolve, reject) => {
-    const expoTokens = [];
-
     table.select().eachPage(
       function page(records, fetchNextPage) {
         records.forEach((record) => {

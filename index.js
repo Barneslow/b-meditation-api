@@ -9,7 +9,11 @@ const app = express();
 const dotenv = require("dotenv");
 dotenv.config({ path: "./.env" });
 
-const { createExpoToken, getAllExpoTokens } = require("./airtable");
+const {
+  createExpoToken,
+  getAllExpoTokens,
+  getExpoToken,
+} = require("./airtable");
 
 app.use(express.json());
 
@@ -25,24 +29,24 @@ schedule.scheduleJob("0 12 * * *	", async () => {
       randomQuote.quote
     )
   );
-
-  console.log("fire");
 });
 
 app.get("/", async (req, res) => {
   const randomQuote = randomFromArray(DUMMY_DATA);
 
-  const expoPushTokens = await getAllExpoTokens();
+  const select = await getExpoToken("ExponentPushToken[40yaVmOZHJ8GLCAX9TDhV]");
 
-  expoPushTokens.forEach((token) =>
-    notifications.sendPushNotification(
-      token,
-      randomQuote.author,
-      randomQuote.quote
-    )
-  );
+  // const expoPushTokens = await getAllExpoTokens();
 
-  res.json(expoPushTokens);
+  // expoPushTokens.forEach((token) =>
+  //   notifications.sendPushNotification(
+  //     token,
+  //     randomQuote.author,
+  //     randomQuote.quote
+  //   )
+  // );
+
+  res.json(select);
 });
 
 app.post("/", async (req, res) => {
@@ -53,8 +57,8 @@ app.post("/", async (req, res) => {
   res.json(response);
 });
 
-app.listen(3000, () => {
-  console.log("Running on port 3000.");
+app.listen(3001, () => {
+  console.log("Running on port 3001.");
 });
 
 module.exports = app;
