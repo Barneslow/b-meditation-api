@@ -34,20 +34,17 @@ schedule.scheduleJob("0 12 * * *	", async () => {
 app.get("/", async (req, res) => {
   const randomQuote = randomFromArray(DUMMY_DATA);
 
-  const select = await getExpoToken("ExponentPushToken[40yaVmOZHJ8GLCAX9TDhV]");
+  const expoPushTokens = await getAllExpoTokens();
 
-  // const expoPushTokens = await getAllExpoTokens();
+  expoPushTokens.forEach((token) =>
+    notifications.sendPushNotification(
+      token,
+      randomQuote.author,
+      randomQuote.quote
+    )
+  );
 
-  // expoPushTokens.forEach((token) =>
-  //   notifications.sendPushNotification(
-  //     token,
-  //     randomQuote.author,
-  //     randomQuote.quote
-  //   )
-  // );
-  console.log(select);
-
-  res.json(select);
+  res.json(expoPushTokens);
 });
 
 app.post("/", async (req, res) => {

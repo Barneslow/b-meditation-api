@@ -63,7 +63,7 @@ exports.createExpoToken = async (token) => {
   }
 };
 
-exports.getAllExpoToken = async () => {
+exports.getAllExpoTokens = async () => {
   return new Promise((resolve, reject) => {
     table.select().eachPage(
       function page(records, fetchNextPage) {
